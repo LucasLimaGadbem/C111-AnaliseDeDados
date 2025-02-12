@@ -5,3 +5,8 @@ while flag == 1:
         print("Invalido")
     else:
         flag = 0
+
+if(entrada=='M'):
+    print('Você é homem!')
+else:
+    print('Você é mulher!')
